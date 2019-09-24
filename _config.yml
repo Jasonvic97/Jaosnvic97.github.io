@@ -8,6 +8,7 @@ url: https://Jasonvic97.github.io
 
 # Jekyll configuration
 
+echo: Big Booty
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
