@@ -3,7 +3,7 @@
 title: Jason Victor
 locale: en_US
 description: Cloud Support Engineer
-logo: Headshot.png
+logo: jasonvictor.png
 url: https://Jasonvic97.github.io
 
 # Jekyll configuration
@@ -37,7 +37,7 @@ comments: true
 # Site owner
 owner:
   name: Jason Victor
-  avatar: Headshot.png
+  avatar: jasonvictor.png
   email: Jasonvictor0829@gmail.com
   disqus-shortname: sosimpletheme
   github: jason-victor
