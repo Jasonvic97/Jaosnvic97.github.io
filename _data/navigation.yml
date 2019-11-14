@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Work Experience
+  url: /work-experience/
 
-- title: Articles
-  url: /articles/
+- title: Education
+  url: /education/
 
 - title: Certificates
   url: /certicates/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Skills
+  url: /skills/
 
-- title: Search
-  url: /search/
+- title: Contact Info
+  url: /contact-info/
