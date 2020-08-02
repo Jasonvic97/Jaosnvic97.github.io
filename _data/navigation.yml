@@ -1,8 +1,13 @@
 # Site navigation links
-
+- title: Work History
+  url: /Work-History/
+  
 - title: Education
   url: /Education/
 
+- title: Skills
+  url: /Skills/
+  
 - title: Certificates
   url: /Certificates/ 
 
