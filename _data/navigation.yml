@@ -1,16 +1,10 @@
 # Site navigation links
 
-- title: Work Experience
-  url: /Work-Experience/
-
 - title: Education
   url: /Education/
 
 - title: Certificates
-  url: /Certificates/
-
-- title: Skills
-  url: /Skills/
+  url: /Certificates/ 
 
 - title: Contact Info
   url: /Contact-Info/
