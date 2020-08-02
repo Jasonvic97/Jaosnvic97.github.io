@@ -14,4 +14,4 @@ image:
 <hr/>
 
 <p><strong>suck it</strong></p>
-<p>I<strong>mitchelo dorcin</strong> is better at anything you do <br /> or will do
+<p>I <strong>MITCHELO DORIN</strong> is better at anything you do <br /> or will do
