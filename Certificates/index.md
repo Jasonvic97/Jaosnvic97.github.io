@@ -15,4 +15,4 @@ image:
 
 * BLS Provider - <a style="color: blue" href="https://ecards.heart.org/api/relay/v1/ecard/getfullpdf?eCardUId=515C9474-6CDB-4371-B037-23C7BBC98E1E">Click here</a>
 
-* Cloud Practioner - <a style="color: blue" href="https://docs.google.com/document/d/1IR1DIFQxpcR198lnLcZXcEIS5EyM3gbsOCs3L8yjZWg/edit?usp=sharing">Click here</a>
+* Cloud Practioner - <a style="color: blue" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-11-21&ci=AWS01132629">Click here</a>
