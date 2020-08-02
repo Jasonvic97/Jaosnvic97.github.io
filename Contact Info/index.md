@@ -11,4 +11,4 @@ image:
 
 **Call me at:** <span style="color blue">(786) 702-9986</span><br/>
 **Send me an email:** <a style="color: blue" href="mailto:jasonvic97@gmail.com">Click here</a><br/>
-**Find me on Linkedin:** <a style="color: blue" href="https://www.linkedin.com/jason-victor-795b3b193/"> Click here</a>
+**Find me on Linkedin:** <a style="color: blue" href="https://www.linkedin.com/in/jason-victor-795b3b193/"> Click here</a>
