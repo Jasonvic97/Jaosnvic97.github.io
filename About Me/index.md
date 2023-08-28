@@ -17,6 +17,6 @@ I consider myself an accomplished Engineer, **passionate learner**, well-versed 
 
 I'm always looking for new opportunities to grow as a professional.
 
-<a markdown="0" href="https://www.linkedin.com/in/jason-victor-795b3b193/" class="btn">More on Dennire</a>
+<a markdown="0" href="https://www.linkedin.com/in/jason-victor-795b3b193/" class="btn">More on Jason</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
